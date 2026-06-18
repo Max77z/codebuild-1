@@ -34,4 +34,4 @@ phases:
             - echo "post_build phase activity is completed. Moving to Artifacts Phase"
 artifacts:
   files:
-    -'**/*'
+    - '**/*'
